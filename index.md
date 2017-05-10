@@ -22,13 +22,13 @@ My name is Kristen Morse. I am a current student at Mansfield University. I am m
 
 ![program](https://team-juan.github.io/team-portfolio/images/Program.png)
 
-![javadocs](https://team-juan.github.io/team-portfolio/images/javadocs.PNG)
-
-![junit](https://team-juan.github.io/team-portfolio/images/junittest.PNG)
-
 * Creating an Alexa Skill: As a team we created an Alexa Skill for the State Farm Lab at Mansfield. University so that it would turn on and off the LED lights in the room. You can find all of the code that we used for this project on my GitHub page.
 
+![program](https://raw.githubusercontent.com/morsek/Team2-Programming-Project-2017/master/AlexaPics/SkillInteractionModel.PNG)
+
 * Game Guides Website: We created a website that allows users to search for games and guides on how to play the game and also cheat codes for the games. This is also on my GitHub page.
+
+![Code](https://github.com/morsek/Team2-Programming-Project-2017/tree/master/html/image-slider)
 
 ### Team Trello Board [Click Here](https://trello.com/b/HXoNnVhw/team-1)
 
