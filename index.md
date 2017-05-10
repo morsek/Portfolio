@@ -1,7 +1,7 @@
 
 My name is Kristen Morse. I am a current student at Mansfield University. I am majoring in Computer Information Systems and minoring in Marketing. I enjoy coding and working on group projects. I have made a few websites in previous classes and worked on them over time. My favorite website that I have made so far would be my Sneaker Collection. I am currently working on a few group projects in one of my classes this semester. We have been working a lot with Amazon's AWS feature creating servers.
 
-![Resume](file:///G:/CIS%20Classes/CIS%20-%202206/CIS%202206/Online%20Morse%20Resume.pdf)
+![Resume](file:///C:/Users/kmorse/Downloads/Morse%20Resume.jpg.pdf)
 
 [Click Here](file:///G:/CIS%20Classes/CIS%20-%202206/CIS%202206/Online%20Morse%20Resume.pdf)
 
@@ -16,19 +16,18 @@ My name is Kristen Morse. I am a current student at Mansfield University. I am m
 * Amazon Alexa Skill: [Click Here](https://github.com/morsek/Team2-Programming-Project-2017/tree/master/AlexaPics)
 * Gaming Guide Website: [Click Here](https://github.com/morsek/Team2-Programming-Project-2017/tree/master/documentation)
 
-# Group Project
+# Group Project's
 
-* Computer Database Java Program: [Click Here](https://github.com/Team-Juan/group_project) - This is a java based program that collects, modifies, and displays information about computer systems. Some values include, the make, model, and specifications of the computer system. You can view the Java documentation [here](https://team-juan.github.io/group_project/index.html). The program also features a JUnit testing application.
+* **Computer Database Java Program:** [Click Here](https://github.com/Team-Juan/group_project) - This is a java based program that collects, modifies, and displays information about computer systems. Some values include, the make, model, and specifications of the computer system. You can view the Java documentation [here](https://team-juan.github.io/group_project/index.html). The program also features a JUnit testing application.
 
 ![program](https://team-juan.github.io/team-portfolio/images/Program.png)
 
-* Creating an Alexa Skill: As a team we created an Alexa Skill for the State Farm Lab at Mansfield. University so that it would turn on and off the LED lights in the room. You can find all of the code that we used for this project on my GitHub page.
+* **Creating an Alexa Skill:** As a team we created an Alexa Skill for the State Farm Lab at Mansfield. University so that it would turn on and off the LED lights in the room. You can find all of the code that we used for this project on my GitHub page.
 
 ![program](https://raw.githubusercontent.com/morsek/Team2-Programming-Project-2017/master/AlexaPics/SkillInteractionModel.PNG)
 
-* Game Guides Website: We created a website that allows users to search for games and guides on how to play the game and also cheat codes for the games. This is also on my GitHub page.
+* **Game Guides Website:** We created a website that allows users to search for games and guides on how to play the game and also cheat codes for the games. This is also on my GitHub page. Code link is above in the code repository section above.
 
-![Code](https://github.com/morsek/Team2-Programming-Project-2017/tree/master/html/image-slider)
 
 ### Team Trello Board [Click Here](https://trello.com/b/HXoNnVhw/team-1)
 
