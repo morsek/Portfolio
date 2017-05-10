@@ -42,4 +42,6 @@ My name is Kristen Morse. I am a current student at Mansfield University. I am m
 
 * CODEography bulletin board - A biography of various and some obscure programming languages. Some including the famous "hello world" examples.
 
+![board](https://raw.githubusercontent.com/morsek/Team2-Programming-Project-2017/master/Bulletin%20Board%20Finished.jpg)
+
 * Creating an Alexa Skill - A step by step guide on how to create your own Amazon Alexa Skill.
