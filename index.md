@@ -1,8 +1,5 @@
 
-My name is Kristen Morse. I am a current student at Mansfield University. I am majoring in Computer Information Systems and minoring in Marketing. I enjoy coding and working on group projects. I have made a few websites in previous classes and worked on them over time. My favorite website that I have made so far would be my Sneaker Collection. I am currently working on a few group projects in one of my classes this semester. We have been working a lot with Amazon's AWS feature creating servers.
-
-![Resume](https://raw.githubusercontent.com/morsek/Portfolio/master/Morse%20Resume.jpg-page-001.jpg)
-![Resume](https://raw.githubusercontent.com/morsek/Portfolio/master/Morse%20Resume.jpg-page-002.jpg)
+My name is Kristen Morse. I am a current student at Mansfield University. I am majoring in Computer Information Systems and minoring in Marketing. I enjoy coding and working on group projects. I have made a few websites in previous classes and worked on them over time. My favorite website that I have made so far would be my Sneaker Collection. I am currently working on a few group projects in one of my classes this semester. We have been working a lot with Amazon's AWS feature creating servers. You can find my resume listed below.
 
 
 ## **Code Repository**
@@ -44,3 +41,8 @@ My name is Kristen Morse. I am a current student at Mansfield University. I am m
 ![board](https://raw.githubusercontent.com/morsek/Team2-Programming-Project-2017/master/Bulletin%20Board%20Finished.jpg)
 
 * Creating an Alexa Skill - A step by step guide on how to create your own Amazon Alexa Skill.
+
+### Resume
+
+![Resume](https://raw.githubusercontent.com/morsek/Portfolio/master/Morse%20Resume.jpg-page-001.jpg)
+![Resume](https://raw.githubusercontent.com/morsek/Portfolio/master/Morse%20Resume.jpg-page-002.jpg)
