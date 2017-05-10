@@ -1,4 +1,6 @@
 
+## **Welcome**
+
 My name is Kristen Morse. I am a current student at Mansfield University. I am majoring in Computer Information Systems and minoring in Marketing. I enjoy coding and working on group projects. I have made a few websites in previous classes and worked on them over time. My favorite website that I have made so far would be my Sneaker Collection. I am currently working on a few group projects in one of my classes this semester. We have been working a lot with Amazon's AWS feature creating servers. You can find my resume listed below.
 
 
@@ -13,7 +15,7 @@ My name is Kristen Morse. I am a current student at Mansfield University. I am m
 * Amazon Alexa Skill: [Click Here](https://github.com/morsek/Team2-Programming-Project-2017/tree/master/AlexaPics)
 * Gaming Guide Website: [Click Here](https://github.com/morsek/Team2-Programming-Project-2017/tree/master/documentation)
 
-# Group Project's
+## **Group Project's**
 
 * **Computer Database Java Program:** [Click Here](https://github.com/Team-Juan/group_project) - This is a java based program that collects, modifies, and displays information about computer systems. Some values include, the make, model, and specifications of the computer system. You can view the Java documentation [here](https://team-juan.github.io/group_project/index.html). The program also features a JUnit testing application.
 
@@ -26,13 +28,13 @@ My name is Kristen Morse. I am a current student at Mansfield University. I am m
 * **Game Guides Website:** We created a website that allows users to search for games and guides on how to play the game and also cheat codes for the games. This is also on my GitHub page. Code link is above in the code repository section above.
 
 
-### Team Trello Board [Click Here](https://trello.com/b/HXoNnVhw/team-1)
+## **Team Trello Board** [Click Here](https://trello.com/b/HXoNnVhw/team-1)
 
 * We have listed all of the highlights that each of us has accomplished throughout the semester. As the semester continues we will be adding more information to these list. The Trello board will also display all of the work that we have finished in previous weeks along with all of the information that we are currently working on.
 
 ![trello](https://team-juan.github.io/team-portfolio/images/trello.JPG)
 
-### Bulletin Board
+## **Bulletin Board**
 
 ![board](https://team-juan.github.io/team-portfolio/images/photo.jpg)
 
@@ -42,7 +44,7 @@ My name is Kristen Morse. I am a current student at Mansfield University. I am m
 
 * Creating an Alexa Skill - A step by step guide on how to create your own Amazon Alexa Skill.
 
-### Resume
+## **Resume**
 
 ![Resume](https://raw.githubusercontent.com/morsek/Portfolio/master/Morse%20Resume.jpg-page-001.jpg)
 ![Resume](https://raw.githubusercontent.com/morsek/Portfolio/master/Morse%20Resume.jpg-page-002.jpg)
