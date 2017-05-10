@@ -12,7 +12,9 @@ My name is Kristen Morse. I am a current student at Mansfield University. I am m
 * Employee Data Base: [Click Here](https://github.com/morsek/s2employeedb)
 * Simple Java Database Program: [Click Here](https://github.com/Team-Juan/simple_java_program)
 * Group Database Java Program: [Click Here](https://github.com/Team-Juan/group_project)
-+ User Guides: [Click Here](https://github.com/Team-Juan/user-guides/wiki)
+* User Guides: [Click Here](https://github.com/Team-Juan/user-guides/wiki)
+* Amazon Alexa Skill:
+* Gaming Guide Website: 
 
 # Group Project
 
@@ -24,6 +26,10 @@ My name is Kristen Morse. I am a current student at Mansfield University. I am m
 
 ![junit](https://team-juan.github.io/team-portfolio/images/junittest.PNG)
 
+* Creating an Alexa Skill: As a team we created an Alexa Skill for the State Farm Lab at Mansfield. University so that it would turn on and off the LED lights in the room. You can find all of the code that we used for this project on my GitHub page.
+
+* Game Guides Website: We created a website that allows users to search for games and guides on how to play the game and also cheat codes for the games. This is also on my GitHub page.
+
 ### Team Trello Board [Click Here](https://trello.com/b/HXoNnVhw/team-1)
 
 * We have listed all of the highlights that each of us has accomplished throughout the semester. As the semester continues we will be adding more information to these list. The Trello board will also display all of the work that we have finished in previous weeks along with all of the information that we are currently working on.
@@ -32,8 +38,8 @@ My name is Kristen Morse. I am a current student at Mansfield University. I am m
 
 ### Bulletin Board
 
-* I created a bulletin board in my CIS 2206 class. My group members researched the information. I researched three of the codes listed on the board and designed the board. I picked the color scheme, design of the information and the backgrounds for the information. I also added photos of the codes running so people could see what it looked like.
-
 ![board](https://team-juan.github.io/team-portfolio/images/photo.jpg)
 
 * CODEography bulletin board - A biography of various and some obscure programming languages. Some including the famous "hello world" examples.
+
+* Creating an Alexa Skill - A step by step guide on how to create your own Amazon Alexa Skill.
