@@ -13,8 +13,8 @@ My name is Kristen Morse. I am a current student at Mansfield University. I am m
 * Simple Java Database Program: [Click Here](https://github.com/Team-Juan/simple_java_program)
 * Group Database Java Program: [Click Here](https://github.com/Team-Juan/group_project)
 * User Guides: [Click Here](https://github.com/Team-Juan/user-guides/wiki)
-* Amazon Alexa Skill:
-* Gaming Guide Website: 
+* Amazon Alexa Skill: [Click Here](https://github.com/morsek/Team2-Programming-Project-2017/tree/master/AlexaPics)
+* Gaming Guide Website: [Click Here](https://github.com/morsek/Team2-Programming-Project-2017/tree/master/documentation)
 
 # Group Project
 
