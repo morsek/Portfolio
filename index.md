@@ -1,9 +1,9 @@
 
 My name is Kristen Morse. I am a current student at Mansfield University. I am majoring in Computer Information Systems and minoring in Marketing. I enjoy coding and working on group projects. I have made a few websites in previous classes and worked on them over time. My favorite website that I have made so far would be my Sneaker Collection. I am currently working on a few group projects in one of my classes this semester. We have been working a lot with Amazon's AWS feature creating servers.
 
-![Resume](file:///C:/Users/kmorse/Downloads/Morse%20Resume.jpg.pdf)
+![Resume](https://raw.githubusercontent.com/morsek/Portfolio/master/Morse%20Resume.jpg-page-001.jpg)
+![Resume](https://raw.githubusercontent.com/morsek/Portfolio/master/Morse%20Resume.jpg-page-002.jpg)
 
-[Click Here](file:///G:/CIS%20Classes/CIS%20-%202206/CIS%202206/Online%20Morse%20Resume.pdf)
 
 ## **Code Repository**
 
